@@ -1,2 +1,7 @@
+# Archivos entregados por la cátedra (entradas del laboratorio)
 Ejemplo_Informe_Lab_Tema4_CIIN1205P.html
 GUIALAB20260_TEMA 7_CIIN1205P.docx
+
+# Caché y artefactos de Python
+__pycache__/
+*.py[cod]
